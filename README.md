@@ -9,9 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -21,10 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./design/my-screenshot.png)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site](https://violah-chesang.github.io/qr-code/)
+- Live Site URL: [Github Pages](https://violah-chesang.github.io/qr-code/)
 
 ## My process
 
@@ -35,21 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
-It was nice adding responsiveness to the design.
 
-Some CSS code I'm proud of:</h1>
-```css
-    @media (max-width: 425px) {
-      .container {
-        padding-top: 30px;
-      }
-      .inner-container {
-        width: 80%;
-      }
-    }
-```
-I
 
 
 ## Author
